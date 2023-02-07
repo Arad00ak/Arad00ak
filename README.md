@@ -22,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-![](https://komarev.com/ghpvc/?username=Arad00ak&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Arad00ak&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

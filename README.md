@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Lost Island](https://lostisland.gq)<br>🌱 I’m currently learning **Javascript, Java**<br>🧑‍🤝‍🧑 I work with [**H00Z3X**](https://github.com/h00z3x)<br>📫 How to reach me **AradakDev@gmail.com**<br>⚡ Fun fact **I think im funny**
+🔭 I’m currently working on [**Lost Island**](https://lostisland.gq)<br>🌱 I’m currently learning **Javascript, Java**<br>🧑‍🤝‍🧑 I work with [**H00Z3X**](https://github.com/h00z3x)<br>📫 How to reach me **AradakDev@gmail.com**<br>⚡ Fun fact **I think im funny**
 
 
 ## 🌐 Socials:

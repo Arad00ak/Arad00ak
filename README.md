@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Arad00ak&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🕸 Connet with me in Discord
-[![Discord](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/825757055981846560)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Arad___ak)](https://github.com/VishwaGauravIn/github-twitter-card-embed)

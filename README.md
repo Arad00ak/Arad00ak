@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Arad00ak&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🕸 Connet with me in Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:825757055981846560)
+[![](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/825757055981846560)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Arad___ak)](https://github.com/VishwaGauravIn/github-twitter-card-embed)

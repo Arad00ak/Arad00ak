@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arad00ak&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-## 🕸 Connet with me in Discord
+## 🕸 Connect with me in Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/825757055981846560?theme=daek&bg=303136&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/825757055981846560)
 
 ## 🐦 Latest Tweet

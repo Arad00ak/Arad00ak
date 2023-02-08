@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![](https://dcbadge.vercel.app/api/server/2rNE8rTrhP?style=flat)](https://discord.gg/2rNE8rTrhP) ![](https://dcbadge.vercel.app/api/shield/825757055981846560?theme=clean-inverted) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Arad._.ak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arad___ak) 
+[![](https://dcbadge.vercel.app/api/server/2rNE8rTrhP?style=flat)](https://discord.gg/2rNE8rTrhP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Arad._.ak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arad___ak) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -15,8 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arad00ak&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-## 🕸 Discord
-![My Discord](https://discord-readme-badge.vercel.app/api?id=825757055981846560) 
+## 🕸 Connet with me in Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:825757055981846560)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=Arad___ak)](https://github.com/VishwaGauravIn/github-twitter-card-embed)

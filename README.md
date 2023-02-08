@@ -24,7 +24,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
---- Status
+--- 
 ![](https://komarev.com/ghpvc/?username=Arad00ak&style=flat)
 <a href="https://lostisland.gq">
 <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">

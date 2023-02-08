@@ -29,5 +29,3 @@
 <a href="https://lostisland.gq">
 <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg">
 </a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

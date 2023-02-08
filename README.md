@@ -2,7 +2,7 @@
 🔭 I’m currently working on [**Lost Island**](https://lostisland.gq)<br>🌱 I’m currently learning **Javascript, Java**<br>🧑‍🤝‍🧑 I work with [**H00Z3X**](https://github.com/h00z3x)<br>📫 How to reach me **AradakDev@gmail.com**<br>⚡ Fun fact **I think im funny**
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![](https://dcbadge.vercel.app/api/server/2rNE8rTrhP?style=flat)](https://discord.gg/2rNE8rTrhP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Arad._.ak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Arad___ak) 
 
 # 💻 Tech Stack:

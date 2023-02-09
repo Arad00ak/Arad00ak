@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [**Lost Island**](https://lostisland.gq)<br>🌱 I’m currently learning **Javascript, Java**<br>🧑‍🤝‍🧑 I work with [**H00Z3X**](https://github.com/h00z3x)<br>📫 How to reach me **AradakDev@gmail.com**<br>⚡ Fun fact **I think im funny**
+🔭 I’m currently working on [**Lost Island**](https://lostisland.gq)<br>🌱 I’m currently learning **Javascript, Java**<br>🧑‍🤝‍🧑 I work with [**H00Z3XD3V**](https://github.com/h00z3x)<br>📫 How to reach me **aradakDev@gmail.com**<br>⚡ Fun fact **I think im funny**
 
 
 ## 🌐 Socials:
@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Arad00ak&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arad00ak&theme=react&hide_border=true)<br/>

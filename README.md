@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [**Snowy Network**](https://discord.gg/RdUuvtjUjP)<br>🌱 I’m currently learning Java, Javascript<br>🧑‍🤝‍🧑 I work with [**H00Z3XD3V**](https://github.com/h00z3x) and [**Rias**](https://github.com/RiasZz)<br>📫 Contact on [**Discord**](https://discord.com/users/825757055981846560) or email me at aradakDev@gmail.com<br>⚡ Fun fact I'm Persian
+🔭 I’m currently working on [**Snowy Network**](https://discord.gg/PCCSctjtUa)<br>🌱 I’m currently learning Java, Javascript<br>🧑‍🤝‍🧑 I work with [**H00Z3XD3V**](https://github.com/h00z3x) and [**Rias**](https://github.com/RiasZz)<br>📫 Contact on [**Discord**](https://discord.com/users/825757055981846560) or email me at aradakDev@gmail.com<br>⚡ Fun fact I'm Persian
 
 
 ## 🌐 Socials:
